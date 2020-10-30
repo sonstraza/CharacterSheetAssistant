@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DMScreen</string>
+    <string name="tab_text_1">Notes</string>
+    <string name="tab_text_2">Enemy Info</string>
+    <string name="tab_text_3">NPC Info</string>
+    <string name="tab_text_4">Hourglass</string>
+</resources>
